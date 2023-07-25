@@ -1,11 +1,11 @@
 ---
 # Banner
 banner:
-  title: "TodoChat"
-  content: "Your smart to-do list management assistant"
+  title: "EmojiCity"
+  content: "欢迎来到 EmojiCity！我们用 Emoji 描述全球城市，让你在解读 Emoji 中发现城市的魅力。无论你是探索者还是学习者，EmojiCity 都能带给你无尽的乐趣。快来开启你的 Emoji 地理探索之旅吧！"
   button:
-    enable: true
-    label: "Join the waitlist"
+    enable: false
+    label: "Get APP"
     link: "https://metaxiaoyu.feishu.cn/share/base/form/shrcnNoGjCBhPhRUNU2kJ2MkZne"
 
 # Features

@@ -1,15 +1,15 @@
 {
   "site": {
-    "title": "TodoChat",
-    "base_url": "https://todochat.kaminono.com",
+    "title": "EmojiCity",
+    "base_url": "https://emojicity.kaminono.com",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logos.png",
-    "logo_darkmode": "/images/logos-darkmode.png",
+    "favicon": "/images/favicon.ico",
+    "logo": "/images/emojicity-website-logo.png",
+    "logo_darkmode": "/images/emojicity-website-logo.png",
     "logo_width": "150",
     "logo_height": "27",
-    "logo_text": "TodoChat"
+    "logo_text": "EmojiCity"
   },
 
   "settings": {
@@ -24,7 +24,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 TodoChat. "
+    "copyright": "Copyright © 2023 EmojiCity. "
   },
 
   "navigation_button": {
@@ -42,6 +42,6 @@
   "metadata": {
     "meta_author": "Xiaoyu Li",
     "meta_image": "/images/og-image.png",
-    "meta_description": "TodoChat"
+    "meta_description": "EmojiCity"
   }
 }

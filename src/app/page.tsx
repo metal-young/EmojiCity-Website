@@ -62,11 +62,7 @@ const Home = () => {
         </div>
       </section>
 
- 
-      <FeaturesComponent features={features} />
 
-      {/* <Testimonials data={testimonial} /> */}
-      <CallToAction data={callToAction} />
     </>
   );
 };

@@ -1,11 +1,11 @@
 ---
 title: "Support"
 meta_title: ""
-description: "todochat support"
+description: "support"
 draft: false
 ---
 
 
-If you have any questions about TodoChat, You can contact us:
+If you have any questions about Emoji, You can contact us:
 
--   By email: todochat.office@kaminono.com
+-   By email: xiaoyuli@kaminono.com
