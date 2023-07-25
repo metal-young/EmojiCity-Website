@@ -1,0 +1,23 @@
+.animated-gradient-text_background {
+  background: linear-gradient(var(--start-color), var(--end-color));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% 200%;
+  animation: gradient 5s ease infinite;
+}
+
+.animated-gradient-text_foreground {
+  color: white; // 这个颜色应该根据你的需要进行调整
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

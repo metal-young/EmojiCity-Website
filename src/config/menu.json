@@ -1,0 +1,35 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Features",
+      "url": "/features"
+    },
+    {
+      "name": "Pricing",
+      "url": "/pricing"
+    },
+    {
+      "name": "Docs",
+      "url": "https://todochat-doc.kaminono.com/"
+    },
+    {
+      "name": "Support",
+      "url": "/support"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+
+    {
+      "name": "Terms of Use",
+      "url": "/terms-of-use"
+    }
+  ]
+}
